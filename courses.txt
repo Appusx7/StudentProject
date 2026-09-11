@@ -1,3 +1,5 @@
 1. BCA
 2. BCom
 3. BSc
+4. BBA
+5. BTech
